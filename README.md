@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 🔭 I’m currently working on a variety of NFT-related tools<br>🤔 I'm interested in blockchain and AI<br>🌱 I’m currently learning TypeScript and Solidity<br><br>📫 How to reach me?<br>-> Twitter: @0xCalica<br>-> Discord: 0xCalica#0001
 
